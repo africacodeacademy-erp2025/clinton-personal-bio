@@ -97,14 +97,3 @@ An app where users can take quizzes, receive instant feedback, and view results.
 - **Contact NO:**+267 71 403 778
 
 ---
-
-# Alternate Mult-Page Template
-
-## Sections
-
-- [About Me](about.md)
-- [Skills](skills.md)
-- [Projects](projects/index.md)
-- [Contact](contact.md)
-
-This is the main landing page for your profile. Customize it to introduce yourself and provide links to other sections.
