@@ -24,7 +24,7 @@ This repository is a template for creating a personal profile page hosted on Git
 1. Scroll down to the GitHub Pages section.
 1. Select main branch as the source.
 1. Save the settings.
-1. Your bio page will be available at `https://africacodeacademy-erp2024.github.io/<your-repo/`.
+1. Your bio page will be available at `https://africacodeacademy-erp2025.github.io/<your-repo/`.
 
 ## Markdown Syntax Overview
 - Headers: `# Header 1`, `## Header 2`, `### Header 3`, etc.
